@@ -1,0 +1,1014 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+          "color": "darkorange"
+        },
+        "name": "Carrefour à reprendre",
+        "description": "Cette intersection sur l'itinéraire de la \"Loire à vélo\" mériterait un traitement sérieux :\n- pas de traversée sur un passage piéton mais sur une voie dédiée correctement marquée\n- positionner les appels de feu à proximité (côté Nord, ce n'est actuellement vraiment pas pratique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9206427037715914,
+          47.898912622216486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv",
+          "iconClass": "Default"
+        },
+        "name": "Fleury - Rue Gustave Roland",
+        "description": "Une incongruité : la piste est dans le même sens qu'une rue en sens unique.\nBelle occasion ratée pour valider l'usage en contre-sens qu'en font les cyclistes.\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91461443901062,
+          47.9308578782712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv",
+          "iconClass": "Default"
+        },
+        "name": "Fleury - Rue Gustave Roland",
+        "description": "Une incongruité : la piste est dans le même sens qu'une rue en sens unique.\nBelle occasion ratée pour valider l'usage en contre-sens qu'en font les cyclistes.\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91461443901062,
+          47.9308578782712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Red",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png"
+        },
+        "name": "Fleury - rue Gustave Roland",
+        "description": "À la sortie du tunnel, il faudrait enlever le petit « stop » inutile à 2 m d'un « cédez le passage » véhicule (ce que sont les vélos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.905781924724579,
+          47.92872461457585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue"
+        },
+        "name": "Fleury - rue Pablo Picasso",
+        "description": "Les vélos ne font pas se changer les feux, sa durée est incroyablement longue.\nInstaller un bouton « appel vélo »."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9214688241481783,
+          47.933413365600465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Default",
+          "color": "Red",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png"
+        },
+        "name": "Fleury - Rue Victor Hugo ",
+        "description": "Il y a bien un « tournez à droite - cycliste » mais il faudrait préciser si l'interdiction de tournez à gauche (pour prendre le tunnel) est aussi valable pour les vélos ; si oui, ne rien changer, si non, il faut le préciser, d'autant plus que à l'entrée du tunnel l'autorisation est claire."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9005194306373598,
+          47.92777567035053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Il manque un panonceau «vélo » pour indiquer aux cyclistes qu'ils ou elles pourront prendre le chemin.\nIl faudrait également songer à revoir la bordure, c-à-d en poser une plate)\n",
+        "name": "Olivet - rue de la source"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9250643253326414,
+          47.85195310634941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "red",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv"
+        },
+        "name": "Olivet - rue Hème",
+        "description": "La signalétique posée en dessous du feux tricolore est en contradiction avec ce qui est attendu des cyclistes (c'est à dire traverser la route et prendre la piste pour ensuite ou aller dans Olivet, ou prendre la passerelle) - la signalétique nous incite à prendre la route et par prolongement le pont dorénavant interdit aux cyclistes (sauf à vouloir aller rue de Beauvoir).\nPeut-être qu'un ré-aménagement général de la tête du pont est à étudier ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.901666074991226,
+          47.86673981494656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - allée du 2ème régiment de hussards - Cédez-le-passage cycliste au feu - tourner à droite",
+        "description": "Tourne à droite utile pour rejoindre immédiatement la piste adjacente sur le trottoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8915930390357973,
+          47.908665477018175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orléans - Avenue de la Mouillère (Sud-Nord) ",
+        "description": "un panonceau « cyclistes tout droit ou à droite » serait un plus à cet endroit.",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9054788351058962,
+          47.888067966238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Default",
+          "color": "DodgerBlue",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Il manque un panonceau « tout droit » aux feux, ne serait-ce que pour prendre la bande peinte au sol.",
+        "name": "Orléans - boulevard de Verdun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9033652544021609,
+          47.90671289547133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - bvd de Québec « tout droit »",
+        "description": "Un panonceau « tout droit » aux feux serait un plus à cet endroit. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9012382626533508,
+          47.91477625755651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Un panonceau « tout droit » aux feux serait un plus à cet endroit. ",
+        "name": "Orléans - bvd Lamartine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9128280878067019,
+          47.91439693914159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Un panonceau « tout droit » aux feux serait un plus à cet endroit. ",
+        "name": "Orléans - fbg Bannier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.897869408130646,
+          47.92110021842355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Un panonceau « tout droit » en lieu et place de celui existant serait un plus à cet endroit. ",
+        "name": "Orléans - fbg St Vincent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9167333841323855,
+          47.91523826722529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orléans - Levée des Capucins",
+        "description": "Un panonceau « cyclistes tout droit » serait un plus, malgré l'« arrêt », malgré l'absence d'équipements.",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9147861003875735,
+          47.89439159393923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DarkOrange",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - parvis de la médiathèque",
+        "description": "Reprendre la zone de stationnement vélo qui sature la plupart du temps.\nImplanter de véritables arceaux (ceux en place ne sont pas pratiques) en nombre suffisants."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.900790333747864,
+          47.90760109547361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "red",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv"
+        },
+        "name": "Orléans - Place Mozart",
+        "description": "Incongruité : sur le trottoir peu pratique il y a 2 ou 3 pictogrammes de peints à la droite de ce panneau, la flèche montre la chaussée sur la gauche (en vérité il y a un bateau gris sur fond gris de caché sur le trottoir).\nLa chaussée est fortement recommandée.\n{{https://becancaneries.files.wordpress.com/2015/07/argonne.jpg?w=225&h=300}}\nCe panneau ne devrait pas être posé sur un trottoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9288837909698486,
+          47.91148094833769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Bannier - Cédez-le-passage cycliste au feu - aller tout droit",
+        "description": "Pas d'intersection sur la droite (sens unique). Correspond à la pratique actuelle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9018310308456423,
+          47.90639465006107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Bannier - Cédez-le-passage cycliste au feu aller tout droit",
+        "description": "Le feu est là uniquement pour le passage piéton. Aucune difficulté pour mettre en place le cédez-le-passage cycliste au feu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9019919633865359,
+          47.90639465006107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Tourne à droite utile pour rejoindre la rue du Faubourg Bannier.",
+        "name": "Orléans - rue de Coulmiers - Cédez-le-passage cycliste au feu - tourner à droite",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8998837471008303,
+          47.912530867779665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Red",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv"
+        },
+        "name": "Orléans - rue de Coulmiers - Sas vélo : marquage déficient",
+        "description": "Comme immédiatement en face, le sas vélo est mal implanté/dessiné."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.891949772834778,
+          47.905567562442904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Red",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png"
+        },
+        "name": "Orléans - rue de la Bretonnerie ",
+        "description": "Manque le \"sauf vélo\" sur le panneau sens interdit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.903536915779114,
+          47.90559273486975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Red",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png"
+        },
+        "name": "Orléans - rue de la Bretonnerie - Signalisation manquante",
+        "description": "La fin de la zone de rencontre n'est pas signalée. Court-elle jusqu'à la rue de la République ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9054198265075686,
+          47.90477462473063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue de la chaude tuile (direction rue des ateliers)",
+        "description": "Un panonceau « tournez à droite » aux feux serait un plus à cet endroit. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9131606817245483,
+          47.914337614209124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue de la chaude tuile (direction rue des ateliers)",
+        "description": "Un panonceau « tournez à droite » aux feux seraient un plus à cet endroit. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9131606817245483,
+          47.914337614209124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Mettre un « tournez à droite » ou installer un bouton « appel vélo ». Le feux ne déclenche pas même avec 2 cyclistes.",
+        "name": "Orléans - rue de la Claye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9119966030120852,
+          47.91080496153419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue"
+        },
+        "description": "Les vélos ne font pas se changer les feux, sa durée est incroyablement longue.\nInstaller un bouton « appel vélo ».",
+        "name": "Orléans - rue de la porte St Jean - rue des Carmes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8977057933807375,
+          47.90192282544019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Tourne à droite utile pour rejoindre immédiatement la piste adjacente sur le trottoir.",
+        "name": "Orléans - rue de Loigny - Cédez-le-passage cycliste au feu - tourner à droite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8919417262077334,
+          47.90861153929073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Red",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv"
+        },
+        "name": "Orléans - Rue de Vauquois (croisement Fbg St-Jean) – sas vélo au feu",
+        "description": "Une incongruité : le sas vélo est tracé au-delà du feu tricolore. Les cyclistes ont des yeux dans le dos…\n{{https://framapic.org/XpDo977HYgIa/w1pGJOed}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8919309973716738,
+          47.90540753744303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - Rue des montées ",
+        "description": "Un panonceau « tournez à droite » serait un plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9095584750175478,
+          47.879946475687206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue du faubourg Bannier - Cédez-le-passage cycliste au feu - aller tout droit",
+        "description": "Le feu est là uniquement pour le passage piéton. Pas de difficulté pour mettre en place un cédez-le-passage cycliste au feu. Correspond à la pratique actuelle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9013482332229616,
+          47.90787618266632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue du faubourg Bannier - Cédez-le-passage cycliste au feu - tourner à droite",
+        "description": "Tourne à droite utile pour rejoindre le DSC de la rue de Patay."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9008466601371767,
+          47.909046635356425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue du faubourg St Jean - Cédez-le-passage cycliste au feu - tourner à droite",
+        "description": "Tourne à droite utile pour rejoindre immédiatement la piste adjacente sur le trottoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.890302896499634,
+          47.90618967740491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - Rue Eugène Vignat - direction hôtel du département",
+        "description": "Le carrefour est très mal organisé, il faut absolument un panonceau « cyclistes tout droit » aux feux.\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9110175967216494,
+          47.90894954812162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Gratteminot - Cédez-le-passage cycliste au feu - tourner à droite",
+        "description": "Tourne à droite utile pour rejoindre immédiatement la piste adjacente sur le trottoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8921723961830141,
+          47.90892797315582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "red",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png"
+        },
+        "name": "Orléans - rue Jean Hupeau",
+        "description": "Suite au travaux de 2017, il manque le panneau qui indique la possibilité de rencontrer des vélo en contre-sens.\nRésultat : les voitures klaxonnent les vélos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.904582977294922,
+          47.89810339795174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - Rue Pierre Premier de Serbie",
+        "description": "Mettre un « tournez à droite » (sous entendu sur la chaussée, seul lieu où peuvent circuler les vélos).\nde plus, les autos sont surprises du passage des cyclistes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9109518826007845,
+          47.908780543982104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Royale / Bourgogne - Cédez-le-passage cycliste au feu ",
+        "description": "Permettre le va tout droit et le tourne à droite."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.904057264328003,
+          47.90027928336654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Royale / Chariot - Cédez-le-passage cycliste au feu ",
+        "description": "Permettre le va tout droit et le tourne-à-droite."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9041162729263308,
+          47.89978297375234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Royale / Jeanne d'Arc - Cédez-le-passage cycliste au feu ",
+        "description": "Actuellement tourne à droite.\nPermettre aussi le va tout droit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9039714336395266,
+          47.90132583369727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Royale / Pereira - Cédez-le-passage cycliste au feu ",
+        "description": "Permettre le va tout droit et le tourne à gauche."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.904159188270569,
+          47.89903490389422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue Royale / Vieux marché - Sens interdit sauf vélo",
+        "description": "Le sens interdit sur la dernière portion de la rue Royale en direction de la Loire porte la mention \"sauf livraison\". Il serait très utile de rajouter \"sauf vélo\". Ce qui correspond du reste à la pratique actuelle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9040733575820923,
+          47.89900433350187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans - rue sainte Catherine - Cédez-le-passage cycliste au feu - tourne à droite",
+        "description": "En haut de la rue sainte Catherine il serait utile de positionner un tourne-à-droite cycliste au feu sur la rue Jeanne d'Arc. Pour au moins deux raisons : le redémarrage en côte n'est pas facile et le feu vert est particulièrement bref."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9054010510444643,
+          47.90140944891923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue"
+        },
+        "description": "Les vélos ne font pas se changer les feux, sa durée est incroyablement longue.\nInstaller un bouton « appel vélo ».",
+        "name": "Orléans - Rue Sanglier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9046151638031008,
+          47.90148047679741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "Orléans – avenue de la Mouillère ",
+        "description": "Un panonceau « tout droit » cyclistes serait un plus à cet endroit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.909718066453934,
+          47.883113378881966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Il manque un panonceau « tout droit » aux feux, ne serait-ce que pour prendre la bande peinte au sol.",
+        "name": "Orléans – Route d'Olivet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9034671783447266,
+          47.881088777774956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "description": "Il manque un panonceau « tout droit » aux feux, ne serait-ce que pour prendre la bande peinte au sol.",
+        "name": "Orléans – Route d'Olivet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9034671783447266,
+          47.881088777774956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv",
+          "iconClass": "Default"
+        },
+        "description": "Une incongruité : la piste est dans le même sens qu'une rue en sens unique.\nBelle occasion ratée pour valider un contre-sens cyclable.\n(rue des opalines, on se retrouve dans la même situation)",
+        "name": "Saint-Jean de la Ruelle – Rue des Diamants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8767309188842773,
+          47.921260194901535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv",
+          "iconClass": "Default"
+        },
+        "description": "Une incongruité : la piste est dans le même sens qu'une rue en sens unique.\nBelle occasion ratée pour valider un contre-sens cycliste.\n(rue des opalines, on se retrouve dans la même situation)",
+        "name": "Saint-Jean de la Ruelle – Rue des Diamants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8767309188842773,
+          47.921260194901535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+          "color": "DarkOrange"
+        },
+        "name": "St Jean de Braye - rue de la gare",
+        "description": "Un carrefour imaginé sous l'emprise de substance illicites, fin 2012 - 2014.\nVoici l'arrivée, rue de la gare :\n{{https://becancaneries.files.wordpress.com/2015/07/braye_gare1.jpg?w=300&h=225}}\nPour aller rue Jean Zay, ne prenez pas le couloir bus mais le trottoir intérieur de celui ci, puis sans vous faire écrasez, prenez la voie intérieure du rond point.\nToujours en venant de la gare, pour prendre l'avenue Pierre Mendes-France, traversez sur le trottoir du couloir bus, traversez la chaussée puis prenez le trottoir bi-directionnel du rond point.\n{{https://becancaneries.files.wordpress.com/2015/07/braye_gare3.jpg?w=225&h=300}}\nNous sommes ici au terminus du tramway, pour aller déposer votre vélo dans celui-ci en l'absence de piste cyclable, prenez la voie du milieu avant de monter sur le trottoir pour 150m.\n{{https://becancaneries.files.wordpress.com/2015/07/braye_gare2.jpg?w=225&h=300}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.978017836809158,
+          47.911783881047995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "red",
+          "iconUrl": "https://framapic.org/ZLRCCVYAd2gp/sBOKI0pv"
+        },
+        "description": "La bande cyclable est réservée aux enfants qui courent derrière les vélos.\n{{https://becancaneries.files.wordpress.com/2015/07/stjnbraye.jpg?w=225&h=300}}",
+        "name": "St Jean de Braye - Rue Edouard Branly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9585061073303223,
+          47.92006305554914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue"
+        },
+        "name": "St Jean de Braye - Rue Jean Jaurès",
+        "description": "Les vélos ne font pas se changer les feux, sa durée est incroyablement longue.\nInstaller un bouton « appel vélo »."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9510442018508913,
+          47.909675900055156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "St Jean de la Ruelle - Rue Clément Ader",
+        "description": "Il manque un panonceau « sauf vélo » sous le panneau « sans issue », ce afin d'indiquer aux cyclistes qu'ils ou elles pourront poursuivre la route vers « la batardière »"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8713665008544922,
+          47.91010019993314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "St Jean de la Ruelle - Rue Clément Ader",
+        "description": "Il manque un panonceau « sauf vélo » sous le panneau « sans issue », ce afin d'indiquer aux cyclistes qu'ils ou elles pourront poursuivre la route vers « la batardière »"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8713665008544922,
+          47.91010019993314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+          "iconClass": "Default"
+        },
+        "name": "St Jean de la Ruelle - Rue Lancelot",
+        "description": "Il manque un panonceau « sauf vélo » sous le panneau « sans issue », ce afin d'indiquer aux cyclistes qu'ils ou elles pourront poursuivre la route vers « la batardière »"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8701112270355225,
+          47.91038785888869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue",
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+          "iconClass": "Default"
+        },
+        "name": "St Jean de la Ruelle - Rue Lancelot",
+        "description": "Il manque un panonceau « sauf vélo » sous le panneau « sans issue », ce afin d'indiquer aux cyclistes qu'ils ou elles pourront poursuivre la route vers « la batardière »"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8701112270355225,
+          47.91038785888869
+        ]
+      }
+    }
+  ]
+}
